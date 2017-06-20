@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>Microsoft.Azure.Documents.OData.Sql</id>
-    <version>2.0.3</version>
+    <version>$version$</version>
     <authors>Ziyou Zheng</authors>
     <owners>Microsoft Corporation</owners>
     <projectUrl>https://github.com/z26zheng/azure-documentdb-odata-sql</projectUrl>
